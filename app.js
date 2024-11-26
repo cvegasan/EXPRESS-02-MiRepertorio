@@ -1,4 +1,7 @@
 //NOTAS:
+// npm init -y
+// npm install express
+// node app.js -->levanta server
 // Los servidores que creamos con Express Js bloquean las consultas de aplicaciones
 // externas gracias a que los CORS están deshabilitados por defecto
 // podemos habilitarlos instalando un paquete de NPM llamado cors:
