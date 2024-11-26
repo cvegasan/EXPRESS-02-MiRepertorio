@@ -1,8 +1,8 @@
-# Desafío 01 - Veterinaria :wolf: :dog: :cat: :giraffe:
+# Desafío 02 - Mi Repertorio
 
-## :computer: Para interactuar con el archivo index.js se deberán pasar argumentos por línea de comando especificando qué función se desea ejecutar, por ejemplo:
+## :computer: Para interactuar con el servidor app.js ejecutar:
  
-* node index.js registrar Benito "2 años" perro blanco vomitos
-* node index.js leer
+* node app.js inicia el servidor
+* La página index.html se levanta con botón derecho, live server
 
 
